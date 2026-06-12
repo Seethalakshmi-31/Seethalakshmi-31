@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there 👋, I'm Seethalakshmi M R
 
-<!--
-**Seethalakshmi-31/Seethalakshmi-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student passionate about technology, programming, and continuous learning.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+🌱 Currently pursuing Bachelor of Computer Applications (BCA)
+📚 Learning Python, Java, Web Development, and Database Management
+💻 Interested in Software Development and Web Technologies
+🔭 Working on academic and personal coding projects
+🤝 Looking to collaborate on beginner-friendly open-source projects
+💬 Ask me about Programming, Web Development, and Computer Science basics
+⚡ Fun Fact: I enjoy solving coding challenges and exploring new technologies.
+🛠️ Skills
+Programming Languages: Python, Java, C
+Web Technologies: HTML, CSS, JavaScript
+Database: MySQL
+Tools: Git, GitHub, VS Code
+📚 Currently Learning
+Data Structures and Algorithms
+Full-Stack Web Development
+Database Management Systems
+Software Engineering Concepts
+🎯 Goals
+Build real-world projects
+Contribute to open-source communities
+Improve problem-solving skills
+Become a skilled Software Developer
+📫 Connect With Me
+Email: seethalakshmimr25@gmail.com
